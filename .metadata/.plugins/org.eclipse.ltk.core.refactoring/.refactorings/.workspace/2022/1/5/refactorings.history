@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;gitproject&apos; to &apos;CoreEx&apos;" description="Rename resource &apos;gitproject&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/gitproject" name="CoreEx" stamp="1643105846931" updateReferences="true"/>
+</session>
